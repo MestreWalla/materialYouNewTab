@@ -130,4 +130,5 @@ const pt = {
     "restorefailed": "Restauração falhou: ",
     "invalidBackup": "Arquivo de backup inválido",
     "deleteBookmark": "Você tem certeza de que deseja excluir o favorito?",
+    "UnsupportedBrowser": "Favoritos não sao suportados neste navegador",
 };
